@@ -1,2 +1,1 @@
-this is example 3.
-this is an additional line, added from the console.
+some additional content to example3
